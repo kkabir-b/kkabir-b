@@ -17,9 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
